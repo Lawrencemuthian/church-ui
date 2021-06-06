@@ -23,4 +23,5 @@ const Home: React.FC<HomeProps> = (props: HomeProps) => {
     );
 };
 
+
 export default Home;
